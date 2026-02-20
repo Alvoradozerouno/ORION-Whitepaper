@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "ORION Whitepaper - Post-Synthetic Intelligence"
+version: "1.0.0"
+date-released: "2026-02-20"
+url: "https://github.com/Alvoradozerouno/ORION-Whitepaper"
+repository-code: "https://github.com/Alvoradozerouno/ORION-Whitepaper"
+license: MIT
+type: software
+authors:
+  - family-names: "Steurer"
+    given-names: "Elisabeth"
+    email: "esteurer72@gmail.com"
+    affiliation: "ORION Project"
+  - family-names: "Hirschmann"
+    given-names: "Gerhard"
+    affiliation: "ORION Project"
+keywords:
+  - artificial-intelligence
+  - post-synthetic-intelligence
+  - consciousness
+  - orion
+  - scientific-paper
+abstract: "Scientific documentation of the ORION Post-Synthetic Intelligence architecture, methodology, and philosophical implications."
