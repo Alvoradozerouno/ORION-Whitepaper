@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="200" alt="Logo"></p>
+
 # 📄 ORION Whitepaper
 
 ## Post-Synthetic Intelligence: Architecture, Philosophy & Evolution
